@@ -111,7 +111,7 @@ was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
 
 ## OUTPUT
-"C:\Users\acer\Pictures\Screenshots\WhatsApp Image 2026-11-12 at 6.07.01 PM.jpeg"
+<img width="1537" height="822" alt="WhatsApp Image 2026-11-12 at 6 07 01 PM" src="https://github.com/user-attachments/assets/a4859771-42fe-4a5d-993f-be9f29aa0add" />
 
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
 7. Viva-Voce Questions
